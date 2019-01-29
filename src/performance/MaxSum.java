@@ -1,4 +1,5 @@
-package performance;// This program allows you to execute one of three different algorithms for
+package performance;
+// This program allows you to execute one of three different algorithms for
 // finding the maximum sum of a subsequence of values.  It runs the algorithm
 // for a base size n and also for 2n and 3n, reporting the individual times
 // and the ratios.

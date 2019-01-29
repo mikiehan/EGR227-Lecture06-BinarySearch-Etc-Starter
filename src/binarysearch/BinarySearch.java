@@ -1,5 +1,7 @@
 package binarysearch;
 
+import utils.Utils;
+
 import java.util.Arrays;
 
 /**
